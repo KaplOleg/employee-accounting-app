@@ -2,9 +2,9 @@ import EmployerListItem from "../employer-list-item/employer-list-item";
 import './employers-list.css'
 
 const EmployersList = ({data}) => {
-
     let elements = data.map(item => {
-        return <EmployerListItem {...item}/>
+        const {id, ...itemProps} = item
+        return <EmployerListItem key={id} {...itemProps}/>
     })
 
     return(
