@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employee-accouting-app/static/css/main.92f26475.css",
+    "main.js": "/employee-accouting-app/static/js/main.824eaf9c.js",
+    "index.html": "/employee-accouting-app/index.html",
+    "main.92f26475.css.map": "/employee-accouting-app/static/css/main.92f26475.css.map",
+    "main.824eaf9c.js.map": "/employee-accouting-app/static/js/main.824eaf9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f26475.css",
+    "static/js/main.824eaf9c.js"
+  ]
+}
